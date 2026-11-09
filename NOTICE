@@ -1,0 +1,15 @@
+workbuddy-delivery-spec
+Copyright 2026 ljh5866
+
+本项目的分层方式（常驻规范 + 按需手册 + 体积与特征自查）参考下列项目，
+交付手册中的「请求用语 → 标准链」对照表由这些项目的预设文本改写而来，
+依 Apache License 2.0 分发：
+
+  dsh-purge        Copyright 2026 YuJunZhiXue
+                   https://github.com/YuJunZhiXue/dsh-purge
+
+  dsh-purge-ports  Copyright 2026 shenwei322
+                   https://github.com/shenwei322/dsh-purge-ports
+
+改写部分：任务类型对照表、参数槽清单、产物要求三节；其余为独立撰写。
+两条上游项目的 LICENSE 文本见 Apache-2.0 全文（本仓库 LICENSE）。

@@ -1,0 +1,26 @@
+{
+  "name": "workbuddy-delivery-spec",
+  "owner": {
+    "name": "ljh5866"
+  },
+  "description": "WorkBuddy 插件市场：输出规范与交付标准。",
+  "plugins": [
+    {
+      "name": "workbuddy-delivery-spec",
+      "source": "./plugins/workbuddy-delivery-spec",
+      "description": "常驻交付标准（输出形态、档位、占位符、质量检查）+ 按需交付手册（任务类型到标准链、参数槽、产物要求）。",
+      "version": "1.0.0",
+      "author": {
+        "name": "ljh5866"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "workbuddy",
+        "rules",
+        "skill",
+        "spec"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "workbuddy-delivery-spec",
+  "version": "1.0.0",
+  "description": "WorkBuddy 输出规范：常驻交付标准 + 按需交付手册。A guide-shaped output spec for WorkBuddy.",
+  "agentName": "workbuddy-delivery-spec",
+  "author": {
+    "name": "ljh5866"
+  },
+  "repository": "https://github.com/ljh5866/workbuddy-delivery-spec",
+  "license": "Apache-2.0",
+  "keywords": [
+    "workbuddy",
+    "codebuddy",
+    "rules",
+    "skill",
+    "spec",
+    "delivery"
+  ],
+  "rules": "rules",
+  "skills": "skills"
+}
